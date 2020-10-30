@@ -17,7 +17,7 @@ applications:
     
 ```
 
-## 3. Invoke the url
+## 3. Invoke the url and check if session is not changed.
 ```url
 https://spring-session-demo.<YOUR-DOMAIN>/session
 ```
