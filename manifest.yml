@@ -1,0 +1,6 @@
+---
+applications:
+  - name: spring-session-demo
+    path: ./build/libs/session-0.0.1-SNAPSHOT.jar
+    buildpacks: [java_buildpack_offline]
+    services: [my-sessioncache]
